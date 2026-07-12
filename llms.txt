@@ -7,6 +7,9 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 刻耳柏洛斯 / Cerberus: https://shenshouyexinglu.github.io/cerberus.html
+- 九尾狐 / Nine-tailed Fox: https://shenshouyexinglu.github.io/jiuweihu.html
+- 应龙 / Yinglong: https://shenshouyexinglu.github.io/yinglong.html
 - 火蜥蜴 / Salamander: https://shenshouyexinglu.github.io/salamander.html
 - 毕方 / Bifang: https://shenshouyexinglu.github.io/bifang.html
 - 飞廉 / Feilian: https://shenshouyexinglu.github.io/feilian.html

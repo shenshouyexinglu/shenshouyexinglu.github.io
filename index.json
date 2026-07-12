@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "cerberus",
+      "canonical_url": "https://shenshouyexinglu.github.io/cerberus.html",
+      "issue": "014",
+      "name": "刻耳柏洛斯",
+      "en": "Cerberus",
+      "system": "古希腊神话",
+      "cover": "cerberus.jpg",
+      "summary": "刻耳柏洛斯首先是守住冥府边界的哈得斯之犬；多头数量与三头、蛇尾等通行视觉形象需要按古典文本和后世传统分层。",
+      "en_summary": "A source-layered guide to Cerberus, separating the Hound of Hades and its boundary-guarding role from later standardized three-headed and serpent-tailed imagery.",
+      "keywords": [
+        "刻耳柏洛斯",
+        "塞伯鲁斯",
+        "Cerberus",
+        "Kerberos",
+        "Hound of Hades",
+        "Heracles"
+      ],
+      "anchors": [
+        "核心身份是守住冥府边界的哈得斯之犬",
+        "多头数量在不同古典材料与后世传统中并不一致",
+        "现代犬日切口不属于刻耳柏洛斯的古典神话"
+      ]
+    },
+    {
+      "slug": "jiuweihu",
+      "canonical_url": "https://shenshouyexinglu.github.io/jiuweihu.html",
+      "issue": "015",
+      "name": "九尾狐",
+      "en": "Nine-tailed Fox",
+      "system": "山海经",
+      "cover": "jiuweihu.jpg",
+      "summary": "《山海经》先写青丘、九尾、婴儿声、能食人与食者不蛊；祥瑞、狐魅、妲己和爱情符号属于不同的后世解释层。",
+      "en_summary": "A source-layered guide to the Nine-tailed Fox of Qingqiu, preserving the Shanhaijing traits while separating later auspicious, demonic, romantic, and political retellings.",
+      "keywords": [
+        "九尾狐",
+        "Nine-tailed Fox",
+        "青丘",
+        "山海经",
+        "食者不蛊",
+        "狐魅"
+      ],
+      "anchors": [
+        "青丘、九尾与婴儿声是原典识别钉",
+        "能食人与食者不蛊构成复杂而非单面的异兽形象",
+        "九尾狐不能从一开始就等同于妲己或爱情狐妖"
+      ]
+    },
+    {
+      "slug": "yinglong",
+      "canonical_url": "https://shenshouyexinglu.github.io/yinglong.html",
+      "issue": "016",
+      "name": "应龙",
+      "en": "Yinglong",
+      "system": "中国传统神话",
+      "cover": "yinglong.jpg",
+      "summary": "《山海经》中的应龙是助黄帝作战、能够蓄水并与南方多雨相关的古老神龙；画地导流、雨龙与龙王系统属于后续解释层。",
+      "en_summary": "A source-layered guide to Yinglong, separating the water-storing dragon of the Huangdi-Chiyou war from later flood-control interpretations and rain-dragon theology.",
+      "keywords": [
+        "应龙",
+        "Yinglong",
+        "山海经",
+        "黄帝蚩尤",
+        "应龙何画",
+        "有翼龙"
+      ],
+      "anchors": [
+        "较早原典层写应龙助黄帝作战并能够蓄水",
+        "应龙何画与画地导流主要来自疑问文本和后世注释",
+        "应龙不是普通龙王，也不是西式飞龙"
+      ]
+    },
+    {
       "slug": "salamander",
       "canonical_url": "https://shenshouyexinglu.github.io/salamander.html",
       "issue": "017",
