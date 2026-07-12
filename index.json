@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "salamander",
+      "canonical_url": "https://shenshouyexinglu.github.io/salamander.html",
+      "issue": "017",
+      "name": "火蜥蜴",
+      "en": "Salamander",
+      "system": "欧洲博物志传统",
+      "cover": "salamander.jpg",
+      "summary": "古代博物志层强调冷性、毒性与熄火或耐火；中世纪动物寓言和炼金术火元素精灵属于后世发展。",
+      "en_summary": "A source-layered guide to the salamander, separating ancient claims about coldness, poison, and resistance to fire from medieval bestiaries and the later alchemical fire elemental.",
+      "keywords": [
+        "火蜥蜴",
+        "Salamander",
+        "Pliny",
+        "medieval bestiary",
+        "Paracelsus",
+        "fire elemental"
+      ],
+      "anchors": [
+        "古代博物志层重点是冷性、毒性与熄火或耐火",
+        "中世纪动物寓言与炼金术火元素精灵属于后世层",
+        "火蜥蜴不是凤凰，也不是喷火飞龙"
+      ]
+    },
+    {
+      "slug": "bifang",
+      "canonical_url": "https://shenshouyexinglu.github.io/bifang.html",
+      "issue": "018",
+      "name": "毕方",
+      "en": "Bifang",
+      "system": "山海经",
+      "cover": "bifang.jpg",
+      "summary": "《山海经·西山经》写毕方似鹤、一足、青质赤文、白喙并自叫其名；其出现是火兆，不等于主动喷火纵火。",
+      "en_summary": "A close reading of Bifang in the Shanhaijing, preserving its crane-like body, single leg, blue-and-red markings, white beak, self-naming cry, and role as an omen of fire.",
+      "keywords": [
+        "毕方",
+        "Bifang",
+        "山海经",
+        "一足",
+        "青质赤文",
+        "譌火"
+      ],
+      "anchors": [
+        "似鹤、一足、青质赤文、白喙、自叫不可遗漏",
+        "出现与譌火相关，是火兆而非主动纵火",
+        "毕方不是凤凰或朱雀，也不喷火"
+      ]
+    },
+    {
+      "slug": "feilian",
+      "canonical_url": "https://shenshouyexinglu.github.io/feilian.html",
+      "issue": "019",
+      "name": "飞廉",
+      "en": "Feilian",
+      "system": "中国传统神话",
+      "cover": "feilian.jpg",
+      "summary": "较早材料强调风、奔走与神灵车驾，未固定兽面；风伯神格及鸟首鹿身等外形属于后世发展。",
+      "en_summary": "A source-layered guide to Feilian, separating early associations with wind, movement, and divine procession from later wind-god and beast-shaped imagery.",
+      "keywords": [
+        "飞廉",
+        "Feilian",
+        "风伯",
+        "离骚",
+        "楚辞",
+        "鸟首鹿身"
+      ],
+      "anchors": [
+        "《离骚》较早层重点是风与奔走，不是固定兽形",
+        "风伯神格与鸟首鹿身等外形属于后世发展",
+        "飞廉不是雷公、雨师或西式狮鹫，同名人物需分开"
+      ]
+    },
+    {
       "slug": "siren",
       "canonical_url": "https://shenshouyexinglu.github.io/siren.html",
       "issue": "020",

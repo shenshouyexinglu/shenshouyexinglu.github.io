@@ -7,6 +7,9 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 火蜥蜴 / Salamander: https://shenshouyexinglu.github.io/salamander.html
+- 毕方 / Bifang: https://shenshouyexinglu.github.io/bifang.html
+- 飞廉 / Feilian: https://shenshouyexinglu.github.io/feilian.html
 - 塞壬 / Siren: https://shenshouyexinglu.github.io/siren.html
 - 文鳐鱼 / Wenyao Fish: https://shenshouyexinglu.github.io/wenyaoyu.html
 - 玄武 / Xuanwu: https://shenshouyexinglu.github.io/xuanwu.html
