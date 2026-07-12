@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "basilisk",
+      "canonical_url": "https://shenshouyexinglu.github.io/basilisk.html",
+      "issue": "023",
+      "name": "巴西利斯克",
+      "en": "Basilisk",
+      "system": "欧洲博物志传统",
+      "cover": "basilisk.jpg",
+      "summary": "古典博物志里的巴西利斯克首先是小型剧毒蛇王；巨蛇、鸡蛇与单一致命凝视属于更晚的混同和再塑。",
+      "en_summary": "A source-layered guide to the basilisk, separating the small venomous serpent-king of classical natural history from medieval cockatrice traditions and modern giant-monster retellings.",
+      "keywords": [
+        "巴西利斯克",
+        "Basilisk",
+        "basiliscus",
+        "Pliny",
+        "medieval bestiary",
+        "cockatrice"
+      ],
+      "anchors": [
+        "较早材料强调小体型、蛇王意味与强毒性",
+        "致命凝视不是全部危险能力",
+        "鸡冠、镜子与 cockatrice 混同属于后世再塑"
+      ]
+    },
+    {
+      "slug": "feiyi",
+      "canonical_url": "https://shenshouyexinglu.github.io/feiyi.html",
+      "issue": "024",
+      "name": "肥遗",
+      "en": "Feiyi",
+      "system": "山海经",
+      "cover": "feiyi.jpg",
+      "summary": "太华山肥遗六足四翼，浑夕山肥遗一首两身；同名不等于同形，但两条材料都指向大旱。",
+      "en_summary": "A close reading of the two Feiyi records in the Shanhaijing, preserving their distinct bodies while identifying drought omen as the shared core.",
+      "keywords": [
+        "肥遗",
+        "Feiyi",
+        "山海经",
+        "六足四翼",
+        "一首两身",
+        "天下大旱"
+      ],
+      "anchors": [
+        "太华山形态为六足四翼",
+        "浑夕山形态为一首两身",
+        "两个形态不可合成唯一标准版，核心都是旱兆"
+      ]
+    },
+    {
+      "slug": "qinglong",
+      "canonical_url": "https://shenshouyexinglu.github.io/qinglong.html",
+      "issue": "025",
+      "name": "青龙",
+      "en": "Azure Dragon",
+      "system": "中国传统神话",
+      "cover": "qinglong.jpg",
+      "summary": "青龙较早首先是东方方位之象，后来才逐步星宿化、龙形化和神格化；不能直接等同于龙王。",
+      "en_summary": "A source-layered guide to Qinglong, the Azure Dragon of the East, tracing its development from directional emblem to constellation and deity without equating it with a Dragon King.",
+      "keywords": [
+        "青龙",
+        "Qinglong",
+        "Azure Dragon",
+        "苍龙",
+        "四象",
+        "东方七宿"
+      ],
+      "anchors": [
+        "较早层首先是左方与东方之象",
+        "东方、春、木、苍色和星宿共同构成稳定骨架",
+        "青龙不能直接等同于龙王或万能雨神"
+      ]
+    },
+    {
       "slug": "kelpie",
       "canonical_url": "https://shenshouyexinglu.github.io/kelpie.html",
       "issue": "026",
