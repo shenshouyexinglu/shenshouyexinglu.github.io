@@ -7,6 +7,9 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 斯芬克斯 / Sphinx: https://shenshouyexinglu.github.io/sphinx.html
+- 天狗 / Tiangou: https://shenshouyexinglu.github.io/tiangou.html
+- 獬豸 / Xiezhi: https://shenshouyexinglu.github.io/xiezhi.html
 - 刻耳柏洛斯 / Cerberus: https://shenshouyexinglu.github.io/cerberus.html
 - 九尾狐 / Nine-tailed Fox: https://shenshouyexinglu.github.io/jiuweihu.html
 - 应龙 / Yinglong: https://shenshouyexinglu.github.io/yinglong.html

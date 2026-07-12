@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "sphinx",
+      "canonical_url": "https://shenshouyexinglu.github.io/sphinx.html",
+      "issue": "011",
+      "name": "斯芬克斯",
+      "en": "Sphinx",
+      "system": "古希腊神话",
+      "cover": "sphinx.jpg",
+      "summary": "希腊斯芬克斯是守在底比斯城外、以谜语筛选过路者的女面狮身有翼谜兽；通行的完整谜面属于后世逐步固定的版本。",
+      "en_summary": "A source-layered guide to the Greek Sphinx of Thebes, separating its role as a riddle-posing threshold guardian from later standardized versions of the famous riddle.",
+      "keywords": [
+        "斯芬克斯",
+        "Sphinx",
+        "俄狄浦斯",
+        "Oedipus",
+        "底比斯",
+        "Thebes"
+      ],
+      "anchors": [
+        "希腊斯芬克斯的核心场景是底比斯城外的拦路与发问",
+        "最流行的完整谜面并非所有早期文本都逐字写出",
+        "希腊斯芬克斯不能直接等同于埃及吉萨大斯芬克斯"
+      ]
+    },
+    {
+      "slug": "tiangou",
+      "canonical_url": "https://shenshouyexinglu.github.io/tiangou.html",
+      "issue": "012",
+      "name": "天狗",
+      "en": "Tiangou",
+      "system": "山海经",
+      "cover": "tiangou.jpg",
+      "summary": "《山海经》天狗首先是阴山中状如狸而白首、其音如榴榴并能御凶的异兽；天文凶星与食日食月传说属于后续不同层次。",
+      "en_summary": "A source-layered guide to Tiangou, separating the white-headed mountain beast of the Shanhaijing from later ominous-star traditions and eclipse folklore.",
+      "keywords": [
+        "天狗",
+        "Tiangou",
+        "山海经",
+        "阴山",
+        "御凶",
+        "天狗食月"
+      ],
+      "anchors": [
+        "《山海经》原典形象是状如狸而白首、其音如榴榴",
+        "原典天狗具有御凶属性",
+        "山中异兽、天文凶星与食日食月民俗不可直接合并"
+      ]
+    },
+    {
+      "slug": "xiezhi",
+      "canonical_url": "https://shenshouyexinglu.github.io/xiezhi.html",
+      "issue": "013",
+      "name": "獬豸",
+      "en": "Xiezhi",
+      "system": "中国传统神话",
+      "cover": "xiezhi.jpg",
+      "summary": "獬豸是一角、能辨曲直并触不直者的法兽；文字训诂、獬豸冠制度象征与皋陶决狱传说需要分层理解。",
+      "en_summary": "A source-layered guide to Xiezhi, the one-horned discerner of right and wrong, separating lexical records, official headgear symbolism, and later judicial legend.",
+      "keywords": [
+        "獬豸",
+        "Xiezhi",
+        "解廌",
+        "廌",
+        "獬豸冠",
+        "皋陶"
+      ],
+      "anchors": [
+        "一角、能辨曲直、触不直者是核心识别链",
+        "獬豸冠使其进入执法与监察制度象征",
+        "獬豸不是单纯的招财瑞兽或现代司法装饰"
+      ]
+    },
+    {
       "slug": "cerberus",
       "canonical_url": "https://shenshouyexinglu.github.io/cerberus.html",
       "issue": "014",
