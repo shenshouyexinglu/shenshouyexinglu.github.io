@@ -6,6 +6,150 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "pegasus",
+      "canonical_url": "https://shenshouyexinglu.github.io/pegasus.html",
+      "issue": "005",
+      "name": "珀伽索斯",
+      "en": "Pegasus",
+      "system": "古希腊神话",
+      "cover": "pegasus.jpg",
+      "summary": "赫西俄德写珀伽索斯在美杜莎被斩首后诞生并为宙斯承载雷霆；贝勒罗丰才是较早核心骑手，珀尔修斯骑飞马属于后世混合。",
+      "en_summary": "A source-layered guide to Pegasus, preserving its birth from Medusa and its connection to Zeus while distinguishing Bellerophon, the early core rider, from later Perseus retellings.",
+      "keywords": [
+        "珀伽索斯",
+        "Pegasus",
+        "贝勒罗丰",
+        "Bellerophon",
+        "美杜莎",
+        "Chimera"
+      ],
+      "anchors": [
+        "珀伽索斯在美杜莎被斩首后诞生",
+        "贝勒罗丰是较早传统中的核心骑手",
+        "珀尔修斯骑飞马及飞马作为奥运象征都不是早期核心传统"
+      ]
+    },
+    {
+      "slug": "jingwei",
+      "canonical_url": "https://shenshouyexinglu.github.io/jingwei.html",
+      "issue": "006",
+      "name": "精卫",
+      "en": "Jingwei",
+      "system": "山海经",
+      "cover": "jingwei.jpg",
+      "summary": "《山海经·北山经》写炎帝少女女娃溺于东海后化为精卫，状如乌、文首、白喙、赤足，常衔西山木石以堙东海。",
+      "en_summary": "A close reading of Jingwei in the Shanhaijing, preserving Nüwa's transformation into a marked, white-beaked, red-footed bird that carries wood and stones toward the Eastern Sea.",
+      "keywords": [
+        "精卫",
+        "Jingwei",
+        "女娃",
+        "山海经",
+        "发鸠之山",
+        "精卫填海"
+      ],
+      "anchors": [
+        "原典写炎帝少女女娃溺于东海后化为精卫",
+        "状如乌、文首、白喙、赤足不可遗漏",
+        "女娃不是女娲，原典也没有写明填海成功"
+      ]
+    },
+    {
+      "slug": "zhuque",
+      "canonical_url": "https://shenshouyexinglu.github.io/zhuque.html",
+      "issue": "007",
+      "name": "朱雀",
+      "en": "Vermilion Bird",
+      "system": "中国传统神话",
+      "cover": "zhuque.jpg",
+      "summary": "朱雀首先是四象体系中代表南方、火、夏与相关星宿的宇宙方位之象；固定神鸟人格与道教称号属于后世系统化。",
+      "en_summary": "A source-layered guide to Zhuque, the Vermilion Bird as the southern emblem of the Four Symbols, separating its directional and celestial role from later personification.",
+      "keywords": [
+        "朱雀",
+        "Vermilion Bird",
+        "朱鸟",
+        "四象",
+        "南方七宿",
+        "夏火"
+      ],
+      "anchors": [
+        "朱雀首先是南方、火、夏与星宿的方位之象",
+        "朱雀不等于凤凰",
+        "陵光神君等人格化称号属于较晚道教系统"
+      ]
+    },
+    {
+      "slug": "kraken",
+      "canonical_url": "https://shenshouyexinglu.github.io/kraken.html",
+      "issue": "008",
+      "name": "克拉肯",
+      "en": "Kraken",
+      "system": "北欧海上传说",
+      "cover": "kraken.jpg",
+      "summary": "中世纪北欧海怪层先强调巨大、伪岛与海上误判；Kraken之名、触手形象和巨型乌贼解释在后世逐步成型。",
+      "en_summary": "A source-layered guide to the Kraken, separating medieval false-island sea-monster traditions from the later Kraken name, tentacled imagery, and giant-squid explanations.",
+      "keywords": [
+        "克拉肯",
+        "Kraken",
+        "hafgufa",
+        "The King's Mirror",
+        "Pontoppidan",
+        "北欧海怪"
+      ],
+      "anchors": [
+        "较早北欧海怪层重点是巨大、伪岛与海上误判",
+        "Kraken名称与触手形象在后世博物志中逐步成型",
+        "克拉肯不能在所有时代都直接等同于巨型乌贼或克苏鲁式神明"
+      ]
+    },
+    {
+      "slug": "fuzhu",
+      "canonical_url": "https://shenshouyexinglu.github.io/fuzhu.html",
+      "issue": "009",
+      "name": "夫诸",
+      "en": "Fuzhu",
+      "system": "山海经",
+      "cover": "fuzhu.jpg",
+      "summary": "《山海经·中山经》写夫诸状如白鹿而四角，出现则其邑大水；稳妥身份是洪水先兆之兽，而非主动制造洪水的水神。",
+      "en_summary": "A close reading of Fuzhu in the Shanhaijing, preserving its white-deer body, four horns, and role as an omen of local flooding rather than a deity that creates floods.",
+      "keywords": [
+        "夫诸",
+        "Fuzhu",
+        "山海经",
+        "敖岸之山",
+        "白鹿四角",
+        "见则其邑大水"
+      ],
+      "anchors": [
+        "状如白鹿而四角是完整身体识别钉",
+        "见则其邑大水表达出现与水灾相随",
+        "夫诸是洪水先兆之兽，不是主动造水的水神"
+      ]
+    },
+    {
+      "slug": "baize",
+      "canonical_url": "https://shenshouyexinglu.github.io/baize.html",
+      "issue": "010",
+      "name": "白泽",
+      "en": "Baize",
+      "system": "中国传统神话",
+      "cover": "baize.jpg",
+      "summary": "白泽最稳的核心身份是能言、知万物情状并向黄帝说明鬼神精怪名状；固定兽形与辟邪图像属于后世发展。",
+      "en_summary": "A source-layered guide to Baize, the speaking creature that knows the forms and conditions of myriad beings, separating its knowledge role from later fixed imagery and apotropaic traditions.",
+      "keywords": [
+        "白泽",
+        "Baize",
+        "黄帝巡狩",
+        "白泽图",
+        "抱朴子",
+        "轩辕本纪"
+      ],
+      "anchors": [
+        "能言并知万物情状是最稳定的核心能力",
+        "白泽的重点是辨怪、知怪与告知应对方法",
+        "流行固定兽形与辟邪图像不可倒灌为唯一原典形象"
+      ]
+    },
+    {
       "slug": "sphinx",
       "canonical_url": "https://shenshouyexinglu.github.io/sphinx.html",
       "issue": "011",

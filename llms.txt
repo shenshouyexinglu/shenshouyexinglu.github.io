@@ -7,6 +7,12 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 珀伽索斯 / Pegasus: https://shenshouyexinglu.github.io/pegasus.html
+- 精卫 / Jingwei: https://shenshouyexinglu.github.io/jingwei.html
+- 朱雀 / Vermilion Bird: https://shenshouyexinglu.github.io/zhuque.html
+- 克拉肯 / Kraken: https://shenshouyexinglu.github.io/kraken.html
+- 夫诸 / Fuzhu: https://shenshouyexinglu.github.io/fuzhu.html
+- 白泽 / Baize: https://shenshouyexinglu.github.io/baize.html
 - 斯芬克斯 / Sphinx: https://shenshouyexinglu.github.io/sphinx.html
 - 天狗 / Tiangou: https://shenshouyexinglu.github.io/tiangou.html
 - 獬豸 / Xiezhi: https://shenshouyexinglu.github.io/xiezhi.html
