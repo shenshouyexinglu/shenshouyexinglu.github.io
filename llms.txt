@@ -7,6 +7,9 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 塞壬 / Siren: https://shenshouyexinglu.github.io/siren.html
+- 文鳐鱼 / Wenyao Fish: https://shenshouyexinglu.github.io/wenyaoyu.html
+- 玄武 / Xuanwu: https://shenshouyexinglu.github.io/xuanwu.html
 - 巴西利斯克 / Basilisk: https://shenshouyexinglu.github.io/basilisk.html
 - 肥遗 / Feiyi: https://shenshouyexinglu.github.io/feiyi.html
 - 青龙 / Azure Dragon: https://shenshouyexinglu.github.io/qinglong.html

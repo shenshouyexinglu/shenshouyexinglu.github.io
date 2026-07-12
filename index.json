@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "siren",
+      "canonical_url": "https://shenshouyexinglu.github.io/siren.html",
+      "issue": "020",
+      "name": "塞壬",
+      "en": "Siren",
+      "system": "古希腊神话",
+      "cover": "siren.jpg",
+      "summary": "荷马层首先写歌声、知识诱惑与致命航路，并未钉死鱼尾外形；鸟身女面和美人鱼化属于更晚图像层。",
+      "en_summary": "A source-layered guide to the Sirens, separating Homer's dangerous song and promise of knowledge from later bird-bodied imagery and mermaid-like popular retellings.",
+      "keywords": [
+        "塞壬",
+        "Siren",
+        "奥德赛",
+        "Odyssey",
+        "Orpheus",
+        "bird-woman"
+      ],
+      "anchors": [
+        "荷马层重点是歌声、诱惑与偏离归程",
+        "鸟身女面属于较晚古典图像共识",
+        "塞壬不能直接等同于鱼尾美人鱼"
+      ]
+    },
+    {
+      "slug": "wenyaoyu",
+      "canonical_url": "https://shenshouyexinglu.github.io/wenyaoyu.html",
+      "issue": "021",
+      "name": "文鳐鱼",
+      "en": "Wenyao Fish",
+      "system": "山海经",
+      "cover": "wenyaoyu.jpg",
+      "summary": "鱼身、鸟翼、白首、赤喙、夜飞、往返西海东海与见则大穰构成完整原典识别链。",
+      "en_summary": "A close reading of the Wenyao Fish in the Shanhaijing, preserving its fish body, bird wings, white head, red beak, nocturnal flight, trans-sea route, and auspicious harvest omen.",
+      "keywords": [
+        "文鳐鱼",
+        "Wenyao Fish",
+        "文鰩",
+        "山海经",
+        "以夜飞",
+        "天下大穰"
+      ],
+      "anchors": [
+        "鱼身、鸟翼、白首、赤喙不可遗漏",
+        "以夜飞并往返西海与东海是核心路线钉",
+        "文鳐鱼不是现代生物学中的普通飞鱼"
+      ]
+    },
+    {
+      "slug": "xuanwu",
+      "canonical_url": "https://shenshouyexinglu.github.io/xuanwu.html",
+      "issue": "022",
+      "name": "玄武",
+      "en": "Xuanwu",
+      "system": "中国传统神话",
+      "cover": "xuanwu.jpg",
+      "summary": "玄武较早首先是北方方位与星象之象，龟蛇交缠是后世稳定图像，真武则属于继续人格化后的神格系统。",
+      "en_summary": "A source-layered guide to Xuanwu, the northern emblem, separating its early directional and celestial role from later tortoise-serpent imagery and Zhenwu theology.",
+      "keywords": [
+        "玄武",
+        "Xuanwu",
+        "Black Tortoise",
+        "四象",
+        "龟蛇",
+        "真武"
+      ],
+      "anchors": [
+        "较早层首先是北方与后方之象",
+        "龟蛇交缠属于后世视觉稳定层",
+        "玄武不能直接等同于后世真武大帝"
+      ]
+    },
+    {
       "slug": "basilisk",
       "canonical_url": "https://shenshouyexinglu.github.io/basilisk.html",
       "issue": "023",
