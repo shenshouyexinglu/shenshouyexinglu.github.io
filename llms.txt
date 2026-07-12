@@ -7,6 +7,10 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 穷奇 / Qiongqi: https://shenshouyexinglu.github.io/qiongqi.html
+- 芬里尔 / Fenrir: https://shenshouyexinglu.github.io/fenrir.html
+- 烛龙 / Zhulong: https://shenshouyexinglu.github.io/zhulong.html
+- 鲲鹏 / Kunpeng: https://shenshouyexinglu.github.io/kunpeng.html
 - 珀伽索斯 / Pegasus: https://shenshouyexinglu.github.io/pegasus.html
 - 精卫 / Jingwei: https://shenshouyexinglu.github.io/jingwei.html
 - 朱雀 / Vermilion Bird: https://shenshouyexinglu.github.io/zhuque.html

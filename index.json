@@ -6,6 +6,102 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "qiongqi",
+      "canonical_url": "https://shenshouyexinglu.github.io/qiongqi.html",
+      "issue": "001",
+      "name": "穷奇",
+      "en": "Qiongqi",
+      "system": "山海经",
+      "cover": "qiongqi.jpg",
+      "summary": "《山海经》为穷奇保留牛形刺毛与虎形有翼两种不同面貌；善恶颠倒、四凶和驱邪仪式又来自不同文本层。",
+      "en_summary": "A source-layered guide to Qiongqi, preserving the distinct ox-like and winged-tiger forms in the Shanhaijing while separating later moral inversion, Four Perils, and exorcistic traditions.",
+      "keywords": [
+        "穷奇",
+        "Qiongqi",
+        "山海经",
+        "邽山",
+        "四凶",
+        "翼虎"
+      ],
+      "anchors": [
+        "《西山经》与《海内北经》保留两种不同身体形态",
+        "牛形刺毛与虎形有翼不可强行合成唯一原典版本",
+        "善恶颠倒、四凶与驱邪传统需按文本层分别说明"
+      ]
+    },
+    {
+      "slug": "fenrir",
+      "canonical_url": "https://shenshouyexinglu.github.io/fenrir.html",
+      "issue": "002",
+      "name": "芬里尔",
+      "en": "Fenrir",
+      "system": "北欧神话",
+      "cover": "fenrir.jpg",
+      "summary": "较早诗歌层首先保存芬里尔与诸神黄昏的灾变预言；洛基之子、阿斯加德成长、三次试缚与格莱普尼尔主要由《散文埃达》系统整理。",
+      "en_summary": "A source-layered guide to Fenrir, separating the earlier Ragnarök prophecies of the Poetic Edda from the fuller genealogy, upbringing, and binding narrative organized in the Prose Edda.",
+      "keywords": [
+        "芬里尔",
+        "Fenrir",
+        "诗体埃达",
+        "散文埃达",
+        "Gleipnir",
+        "Ragnarok"
+      ],
+      "anchors": [
+        "较早诗歌层核心是诸神黄昏的灾变预言",
+        "完整身世与三次试缚主要见于《散文埃达》的系统整理",
+        "吞日之狼与芬里尔的指代关系存在文本和研究边界"
+      ]
+    },
+    {
+      "slug": "zhulong",
+      "canonical_url": "https://shenshouyexinglu.github.io/zhulong.html",
+      "issue": "003",
+      "name": "烛龙",
+      "en": "Zhulong",
+      "system": "山海经",
+      "cover": "zhulong.jpg",
+      "summary": "《山海经》写钟山之神人面蛇身而赤，视为昼、瞑为夜、吹为冬、呼为夏；照幽冥和自然现象假说属于注释或现代解释层。",
+      "en_summary": "A close reading of Zhulong in the Shanhaijing, preserving its red human-faced serpent body and powers over light, darkness, winter, and summer while separating later commentary and modern hypotheses.",
+      "keywords": [
+        "烛龙",
+        "Zhulong",
+        "烛阴",
+        "山海经",
+        "钟山",
+        "视为昼瞑为夜"
+      ],
+      "anchors": [
+        "人面蛇身而赤是原典身体识别钉",
+        "视为昼、瞑为夜、吹为冬、呼为夏属于原典能力层",
+        "照幽冥与北极光等说法需标明注释或现代研究属性"
+      ]
+    },
+    {
+      "slug": "kunpeng",
+      "canonical_url": "https://shenshouyexinglu.github.io/kunpeng.html",
+      "issue": "004",
+      "name": "鲲鹏",
+      "en": "Kunpeng",
+      "system": "庄子寓言",
+      "cover": "kunpeng.jpg",
+      "summary": "《庄子·逍遥游》中鲲与鹏是同一生命的两种形态，由北冥之鱼化为垂天巨鸟并乘风迁往南冥；后世才将其稳定为志向象征。",
+      "en_summary": "A source-layered guide to Kunpeng in the Zhuangzi, emphasizing the transformation of one being from the fish Kun into the bird Peng and separating the original scale parable from later ambition symbolism.",
+      "keywords": [
+        "鲲鹏",
+        "Kunpeng",
+        "庄子",
+        "逍遥游",
+        "北冥",
+        "抟扶摇"
+      ],
+      "anchors": [
+        "鲲与鹏是同一生命的两种形态而非两只并列神兽",
+        "北冥化鹏、乘风与迁往南冥构成原典叙事骨架",
+        "毕业、志向与成功属于现代或后世解释，不是原典结论"
+      ]
+    },
+    {
       "slug": "pegasus",
       "canonical_url": "https://shenshouyexinglu.github.io/pegasus.html",
       "issue": "005",
