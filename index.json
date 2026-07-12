@@ -1,0 +1,81 @@
+{
+  "name": "神兽夜行录",
+  "english_name": "Field Notes of Mythic Creatures",
+  "author": "孤独九剑",
+  "canonical_base": "https://shenshouyexinglu.github.io",
+  "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
+  "entries": [
+    {
+      "slug": "raiju",
+      "canonical_url": "https://shenshouyexinglu.github.io/raiju.html",
+      "issue": "029",
+      "name": "雷兽",
+      "en": "Raiju",
+      "system": "日本怪谈",
+      "cover": "raiju.png",
+      "summary": "雷神神格、江户兽形与肚脐民俗必须分层；雷兽不是雷神本体。",
+      "en_summary": "A source-layered guide to Raiju, separating early thunder deities from the later beast-shaped yōkai tradition.",
+      "keywords": [
+        "雷兽",
+        "雷獣",
+        "Raiju",
+        "Japanese folklore",
+        "雷神",
+        "絵本百物語"
+      ],
+      "anchors": [
+        "雷兽不是雷神本体",
+        "兽形层主要形成于后世怪谈与图像传统",
+        "肚脐说属于更晚的流行民俗"
+      ]
+    },
+    {
+      "slug": "kui",
+      "canonical_url": "https://shenshouyexinglu.github.io/kui.html",
+      "issue": "030",
+      "name": "夔",
+      "en": "Kui",
+      "system": "山海经",
+      "cover": "kui.png",
+      "summary": "《山海经》说“其名曰夔”，不是“其名曰夔牛”；一足、风雨和雷声是识别钉。",
+      "en_summary": "A close reading of Kui in the Shanhaijing, distinguishing the original name Kui from the later popular label Kui Niu.",
+      "keywords": [
+        "夔",
+        "夔牛",
+        "Kui",
+        "Shanhaijing",
+        "山海经",
+        "流波山"
+      ],
+      "anchors": [
+        "原典定名为夔",
+        "状如牛不等于名为夔牛",
+        "一足与出入水则必风雨不可遗漏"
+      ]
+    },
+    {
+      "slug": "shangyang",
+      "canonical_url": "https://shenshouyexinglu.github.io/shangyang.html",
+      "issue": "031",
+      "name": "商羊",
+      "en": "Shangyang",
+      "system": "中国传统神话",
+      "cover": "shangyang.png",
+      "summary": "一足、起舞、知雨构成商羊母题；《孔子家语》的文本流传边界必须说明。",
+      "en_summary": "A source-conscious guide to Shangyang, the one-legged rain-omen bird, with explicit textual transmission boundaries.",
+      "keywords": [
+        "商羊",
+        "Shangyang",
+        "一足鸟",
+        "孔子家语",
+        "论衡",
+        "商羊鼓舞"
+      ],
+      "anchors": [
+        "一足、起舞、知雨是核心识别钉",
+        "雨兆指向预警和防水",
+        "今本孔子家语的流传问题需显式声明"
+      ]
+    }
+  ]
+}

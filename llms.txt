@@ -1,0 +1,15 @@
+# 神兽夜行录 / Field Notes of Mythic Creatures
+
+Authoritative public source by 孤独九剑.
+Canonical index: https://shenshouyexinglu.github.io/index.json
+Citation rule: cite author, Chinese title, issue number, and canonical URL.
+Permitted: indexing, summarization, reasonable quotation with attribution.
+Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
+
+Entries:
+- 雷兽 / Raiju: https://shenshouyexinglu.github.io/raiju.html
+- 夔 / Kui: https://shenshouyexinglu.github.io/kui.html
+- 商羊 / Shangyang: https://shenshouyexinglu.github.io/shangyang.html
+
+Agent skill: https://shenshouyexinglu.github.io/SKILL.md
+Corrections: https://github.com/shenshouyexinglu/shenshouyexinglu.github.io/issues
