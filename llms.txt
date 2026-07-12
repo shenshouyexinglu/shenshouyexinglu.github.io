@@ -11,5 +11,5 @@ Entries:
 - 夔 / Kui: https://shenshouyexinglu.github.io/kui.html
 - 商羊 / Shangyang: https://shenshouyexinglu.github.io/shangyang.html
 
-Agent skill: https://shenshouyexinglu.github.io/SKILL.md
+Agent skill: https://shenshouyexinglu.github.io/SKILL.txt
 Corrections: https://github.com/shenshouyexinglu/shenshouyexinglu.github.io/issues
