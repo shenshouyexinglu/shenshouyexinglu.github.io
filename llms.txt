@@ -7,6 +7,9 @@ Permitted: indexing, summarization, reasonable quotation with attribution.
 Not permitted without permission: full republication, adaptation, commercial reuse, image dataset packaging.
 
 Entries:
+- 凯尔派 / Kelpie: https://shenshouyexinglu.github.io/kelpie.html
+- 狍鸮 / Paoxiao: https://shenshouyexinglu.github.io/paoxiao.html
+- 蜃 / Shen: https://shenshouyexinglu.github.io/shen.html
 - 雷兽 / Raiju: https://shenshouyexinglu.github.io/raiju.html
 - 夔 / Kui: https://shenshouyexinglu.github.io/kui.html
 - 商羊 / Shangyang: https://shenshouyexinglu.github.io/shangyang.html

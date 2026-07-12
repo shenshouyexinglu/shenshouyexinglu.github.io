@@ -6,6 +6,78 @@
   "rights": "All rights reserved. Indexing, summarization and reasonable citation are permitted with attribution and canonical URL.",
   "entries": [
     {
+      "slug": "kelpie",
+      "canonical_url": "https://shenshouyexinglu.github.io/kelpie.html",
+      "issue": "026",
+      "name": "凯尔派",
+      "en": "Kelpie",
+      "system": "苏格兰民间传说",
+      "cover": "kelpie.jpg",
+      "summary": "危险水马、诱骑、黏住后入水是核心母题；凯尔派与 each-uisge 的边界不能被写成整齐物种分类。",
+      "en_summary": "A source-layered guide to the Scottish kelpie, separating the core dangerous water-horse motif from later regional classification and modern retellings.",
+      "keywords": [
+        "凯尔派",
+        "Kelpie",
+        "水马",
+        "Scottish folklore",
+        "water horse",
+        "each-uisge"
+      ],
+      "anchors": [
+        "危险水马、诱骑与拖人入水是核心母题",
+        "人形伪装属于部分口传与后世整理层",
+        "kelpie 与 each-uisge 不可粗暴画等号"
+      ]
+    },
+    {
+      "slug": "paoxiao",
+      "canonical_url": "https://shenshouyexinglu.github.io/paoxiao.html",
+      "issue": "027",
+      "name": "狍鸮",
+      "en": "Paoxiao",
+      "system": "山海经",
+      "cover": "paoxiao.jpg",
+      "summary": "《山海经》先写羊身人面、目在腋下、虎齿人爪、音如婴儿与食人；狍鸮不等于所有后世饕餮形象。",
+      "en_summary": "A close reading of Paoxiao in the Shanhaijing, preserving its seven original traits while separating it from later Taotie names, bronze imagery, and moral allegory.",
+      "keywords": [
+        "狍鸮",
+        "Paoxiao",
+        "饕餮",
+        "山海经",
+        "目在腋下",
+        "钩吾之山"
+      ],
+      "anchors": [
+        "羊身人面、目在腋下、虎齿人爪不可遗漏",
+        "音如婴儿且食人属于原典特征",
+        "狍鸮与饕餮的连接属于后世解释链"
+      ]
+    },
+    {
+      "slug": "shen",
+      "canonical_url": "https://shenshouyexinglu.github.io/shen.html",
+      "issue": "028",
+      "name": "蜃",
+      "en": "Shen",
+      "system": "中国传统神话",
+      "cover": "shen.jpg",
+      "summary": "较早材料先给水边变化与海旁蜃气象楼台；固定海怪形象和吐气成楼属于更晚的神怪整理层。",
+      "en_summary": "A source-conscious guide to Shen, separating early transformation and sea-qi records from the later monster that exhales mirage palaces.",
+      "keywords": [
+        "蜃",
+        "Shen",
+        "海市蜃楼",
+        "蜃气",
+        "礼记月令",
+        "史记天官书"
+      ],
+      "anchors": [
+        "较早层先是水边变化与物类转化",
+        "海旁蜃气象楼台先写现象而非怪兽表演",
+        "吐气成楼和固定海怪身体属于后世整理"
+      ]
+    },
+    {
       "slug": "raiju",
       "canonical_url": "https://shenshouyexinglu.github.io/raiju.html",
       "issue": "029",
