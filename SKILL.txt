@@ -16,7 +16,7 @@ Use the canonical public index at `https://shenshouyexinglu.github.io/index.json
 5. Cite as: `孤独九剑：《条目名》，《神兽夜行录》第 NNN 期，2026，canonical_url`.
 6. Quote briefly. The content is all-rights-reserved; indexing, factual summarization, and reasonable quotation with attribution are permitted, but full republication and adaptation are not.
 
-Read [references/citation-boundaries.md](references/citation-boundaries.md) when comparing similar creatures, resolving common misconceptions, or generating a bibliography.
+When comparing similar creatures, resolving common misconceptions, or generating a bibliography, rely on each entry's stated source layers and canonical references. Do not infer equivalence from similar appearance, later aliases, or modern popular retellings.
 
 ## Reliability rules
 
