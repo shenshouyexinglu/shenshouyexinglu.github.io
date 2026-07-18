@@ -8,10 +8,12 @@
     referrer: document.referrer
   });
   const url = endpoint.replace(/\/$/, "") + "/api/collect";
-  if (navigator.sendBeacon) {
-    navigator.sendBeacon(url, new Blob([payload], { type: "application/json" }));
-  } else {
-    fetch(url, { method: "POST", headers: { "content-type": "application/json" }, body: payload, keepalive: true }).catch(() => {});
-  }
+  fetch(url, {
+    method: "POST",
+    mode: "cors",
+    credentials: "omit",
+    headers: { "content-type": "text/plain;charset=UTF-8" },
+    body: payload,
+    keepalive: true
+  }).catch(() => {});
 })();
-
